@@ -6,7 +6,5 @@ while index > -1:
     print(index, end = ' ')
     index -= 1
 print("This is a new part added")
-list1 = ['a', 'b', 'c', 'd', 'e','f','g']
-for item in list1:
-    print(item, end= ' ' )
+
 print("hello mr khuram")
